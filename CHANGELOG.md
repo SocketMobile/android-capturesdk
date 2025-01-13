@@ -1,3 +1,6 @@
+## [Version 1.8.36](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.8.36) January 13, 2025
+* Bug fix for DeviceType.isNfcScanner() returning a wrong value
+
 ## [Version 1.8.26](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.8.26) October 25, 2024
 * Add sdk version when opening client
 
