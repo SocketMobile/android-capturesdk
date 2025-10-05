@@ -1,3 +1,6 @@
+## [Version 1.8.57](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.8.57) October 04, 2025
+* Upgrade dependencies for 16KB page size support
+
 ## [Version 1.8.47](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.8.47) February 28, 2025
 * Upgrade target sdk to Android 15
 * Add a 'result' field to the success response to capture any warnings about the response
