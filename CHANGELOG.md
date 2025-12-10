@@ -1,5 +1,5 @@
 ## [Version 1.9.0](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.9.0) December 09, 2025
-* Add support for S741
+* Add support for S721
 
 ## [Version 1.8.57](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.8.57) October 04, 2025
 * Upgrade dependencies for 16KB page size support
