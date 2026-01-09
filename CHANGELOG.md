@@ -1,3 +1,6 @@
+## [Version 2.0.1](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/2.0.1) January 09, 2026
+* Updated APIs for scanning and connecting to Bluetooth LE devices.
+
 ## [Version 1.9.0](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/1.9.0) December 09, 2025
 * Add support for S721
 
