@@ -1,3 +1,6 @@
+## [Version 2.0.17](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/2.0.17) March 13, 2026
+* Add symbology selector for SocketCam devices.
+* 
 ## [Version 2.0.1](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/2.0.1) January 09, 2026
 * Updated APIs for scanning and connecting to Bluetooth LE devices.
 
