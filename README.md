@@ -17,13 +17,14 @@ Within 10 minutes the barcode scanning or RFID/NFC reading capability can be int
 The CaptureSDK offers a built-in barcode scanner called SocketCam, allowing to test and integrate the SDK even before getting a Socket Mobile scanner, using the exact same API, which makes the transition from using SocketCam to a Socket scanner totally frictionless.
 
 # Devices compatibility and CaptureSDK versions
-|                    Devices                     |          < 1.4         |          1.4           |          1.5          |          1.6          |         1.7          |        1.8         |        1.9         |
-|:----------------------------------------------:| :--------------------: | :--------------------: | :-------------------: | :-------------------: |:-------------------: |:------------------:|:------------------:|
-|               **SocketCam C820**               |          ❌            |           ❌           |           ✅           |           ✅          |           ✅          |         ✅          |         ✅          |
-|               **S720/D720/S820**               |          ❌            |           ❌           |           ✅           |           ✅          |           ✅          |         ✅          |         ✅          |
-| **D600, S550, and all other barcode scanners** |          ❌            |           ✅           |           ✅           |           ✅          |           ✅          |         ✅          |         ✅          |
-|                    **S370**                    |          ❌            |           ❌           |           ❌           |           ✅          |           ✅          |         ✅          |         ✅          |
-|                    **M930**                    |          ❌            |           ❌           |           ❌           |           ❌          |           ✅          |         ✅          |         ✅          |
-|               **SocketCam C860**               |          ❌            |           ❌           |           ❌           |           ❌          |           ✅          |         ✅          |         ✅          |
-|                    **S320**                    |          ❌            |           ❌           |           ❌           |           ❌          |           ❌          |         ✅          |         ✅          |
-|                    **S721**                    |          ❌            |           ❌           |           ❌           |           ❌          |           ❌          |         ❌          |         ✅          |
+|                     Devices                    | < 1.4 | 1.4 | 1.5 | 1.6 | 1.7 | 1.8 | 1.9 | 2.0 |
+| :--------------------------------------------: | :---: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|               **SocketCam C820**               |   ❌   |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+|               **S720/D720/S820**               |   ❌   |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| **D600, S550, and all other barcode scanners** |   ❌   |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+|                    **S370**                    |   ❌   |  ❌  |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+|                    **M930**                    |   ❌   |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |
+|               **SocketCam C860**               |   ❌   |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |
+|                    **S320**                    |   ❌   |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ✅  |
+|                    **S721**                    |   ❌   |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |
+
