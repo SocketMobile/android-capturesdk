@@ -6,7 +6,7 @@ CaptureSDK is the easiest solution for adding barcode scanning and RFID/NFC read
 
 The Socket Mobile barcode scanner and contactless reader/writer are an ergonomic, fast and accurate solution to a variety of data entry scenarios.
 
-To access our CaptureSDK on all platforms, you can login into our [DEVELOPERS PORTAL](https://www.socketmobile.com/dev-portal/portal)
+To access our CaptureSDK on all platforms, you can login into our [DEVELOPERS PORTAL](http://www.socketmobile.dev/)
 
 More documentation can be found [here](https://docs.socketmobile.com/capture/java/en/latest/ "CaptureSDK Documentation").
 
