@@ -1,3 +1,7 @@
+## [Version 2.0.22](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/2.0.22) April 17, 2026
+* Added helpers for Battery Level, Power-Off Timeout, Power State, Reset Device, and Shutdown Device.
+* Added notification events for Battery Level and Power State.
+
 ## [Version 2.0.17](https://bin.socketmobile.com/ui/repos/tree/General/libs-release-public/com/socketmobile/capture/2.0.17) March 13, 2026
 * Add symbology selector for SocketCam devices.
 
