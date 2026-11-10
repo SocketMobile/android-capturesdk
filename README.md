@@ -1,5 +1,14 @@
 # Android CaptureSDK
 
+> [!WARNING]                                                                                                                                                                                                   
+  > ## Please Update to CaptureSDK 2.1 Before December 1, 2026                                                                                                                                                   
+  > Versions prior to 2.1.x will be removed from our repositories on December 1, 2026 for all platforms.                                                                                                         
+                                                                                                                                                                                                                 
+  > [!WARNING]                                                                                                                                                                                                   
+  > As we're transitioning our scanners to Bluetooth Low Energy and improving our CaptureSDKs, updating to the latest version 2.1 is required to stay compatible and benefit from all our latest products and    
+  features.
+                  
+
 Socket Mobile is a leading innovator of data capture and delivery solutions for enhanced productivity.
 
 CaptureSDK is the easiest solution for adding barcode scanning and RFID/NFC reading capability to an Android application.
@@ -17,15 +26,15 @@ Within 10 minutes the barcode scanning or RFID/NFC reading capability can be int
 The CaptureSDK offers a built-in barcode scanner called SocketCam, allowing to test and integrate the SDK even before getting a Socket Mobile scanner, using the exact same API, which makes the transition from using SocketCam to a Socket scanner totally frictionless.
 
 # Devices compatibility and CaptureSDK versions
-|                     Devices                    | 1.7 | 1.8 | 1.9 | 2.0 | 2.1 |
-| :--------------------------------------------: | :-: | :-: | :-: | :-: | :-: |
-|               **SocketCam C820**               |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-|               **S720/D720/S820**               |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| **D600, S550, and all other barcode scanners** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-|                    **S370**                    |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-|                    **M930**                    |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-|               **SocketCam C860**               |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-|                    **S320**                    |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |
-|                    **S721**                    |  ❌  |  ❌  |  ✅  |  ✅  |  ✅  |
-|                   **SM Link**                  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |
+|                     Devices                    | 2.1 |                                                                                                                                                       
+  | :--------------------------------------------: | :-: |                                                                                                                                                       
+  |               **SocketCam C820**               |  ✅  |                                                                                                                                                      
+  |               **S720/D720/S820**               |  ✅  |                                                                                                                                                      
+  | **D600, S550, and all other barcode scanners** |  ✅   |                                                                                                                                                      
+  |                    **S370**                    |  ✅   |                                                                                                                                                      
+  |                    **M930**                    |  ✅  ||                                                                                                                                                      
+  |               **SocketCam C860**               |  ✅   |                                                                                                                                                      
+  |                    **S320**                    |  ✅  ||                                                                                                                                                      
+  |                    **S721**                    |  ✅  ||                                                                                                                                                      
+  |                   **SM Link**                  |  ✅  | 
 
